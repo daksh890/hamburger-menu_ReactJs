@@ -20,7 +20,7 @@ function App() {
           <Menu open={open} setOpen={setOpen}/>
         </div>
         <div>
-          <h1>Hello. This is burger menu tutorial</h1>
+          <h1>Hello. This is Hamburger menu.</h1>
           <img src="https://image.flaticon.com/icons/svg/2016/2016012.svg" alt="burger icon" />
           <small>Icon made by Freepik from www.flaticon.com</small>
           <small>Project Tutuorial <a href="https://css-tricks.com/hamburger-menu-with-a-side-of-react-hooks-and-styled-components/"> <b>HERE</b></a></small>
